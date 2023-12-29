@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Niyahss
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Saku
+- 👀 I’m interested in Python, C++, C#
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me by clicking [here](https://github.com/egg883)
 
 <!---
