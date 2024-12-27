@@ -1,5 +1,5 @@
-### Hi there, my name is Norsoo | Saku
-#### I'm a 19 years old programmer from the United Kingdom.</br> I started programming in February 2020, developing a bunch of random things for example: Autoclickers, autoscrollers, selfbots, discord bots, roblox related things and much more. My main language is [python](https://python.org).
+### Hi there, my name is Neya || Saku
+#### I'm a 20 years old programmer. </br> I started programming in February 2020, developing a bunch of random things for example: Autoclickers, autoscrollers, selfbots, discord bots, roblox related things and much more. My main language is [python](https://python.org).
 <p align="left" >
      <img src="https://komarev.com/ghpvc/?username=norsoo&style=flat" alt=norsoo>
 </p>
@@ -12,7 +12,7 @@
 </p>
 
 - 😄 Pronouns: `she`/`her`
-- 🔭 I’m currently working on: ***rewriting the entirety of [Egglington Bot](https://eggbot.site)***
+- 🔭 I’m currently working on: ***Nothing of interest***
 
 - 📫 How to reach me: 
     <center>
